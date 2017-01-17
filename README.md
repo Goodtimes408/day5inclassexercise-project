@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Java Datatypes
+## Java Datatypes Project
 
-*Default Structure for A Basic Project*
+*Default Structure for Java Datatypes Project*
 
 **Java 7**
 
